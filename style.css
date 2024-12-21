@@ -76,6 +76,9 @@
     width: 715px;
     margin-top: 16px;
 }
+/* ............................................... */
+/* .................................................. */
+
 
 .body-container-2{
     margin-top: 500px;
@@ -181,6 +184,8 @@
     bottom:300px;
 }
 
+/* .......................................... */
+/* .......................................... */
 
 .body-container-3{
     display: flex;
@@ -190,11 +195,11 @@
 }
 .frame-3{
     position: absolute;
-    top: 2150px;
+    top: 2250px;
     left: 310px;
 }
 .frame-1{
-    margin-left: 582px;
+    margin-left: 490px;
     margin-top: 295px;
 }
 .frame-2{
@@ -206,21 +211,81 @@
     margin-top: 120px;
 }
 
+.blue h1 p{
+    margin-left: 2700px;
+}
+
+
 .body-content-2 h1 {
     position: absolute;
     left:800px;
-    top: 2090px;
+    top: 2180px;
     font-size: 40px;
 }
 .body-content-2 p1{
     position: absolute;
     left: 800px;
-    top: 2210px;
+    top: 2300px;
 }
 
-.beneath-text{
+.beneath-text h4{
     margin-top: 25px;
     line-height: 40px;
     text-align: center;
-    font-size: 24px;
+    font-size: 40px;
+}
+
+.beneath-text p{
+    margin-top: 25px;
+    line-height: 10px;
+    text-align: center;
+    color: rgba(117, 117, 117, 1)
+}
+
+
+
+.body-container-3{
+    margin-left: 100px;
+    margin-top: 100px;
+    /* display: flex; */
+}
+.snap-1{
+    margin-left: 270px;
+    margin-top: -80px;
+}
+.snap-2{
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.snap-3{
+    position: absolute;
+    top: 2630px;
+
+}
+.content-text-heading{
+    margin-left: 20px;
+}
+.content-text-heading h1{
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.dots{
+    margin-top: 30px;
+}
+.small-dots{
+    gap: 3rem;
+    display: flex;
+}
+
+.circle-photo{
+    width: 184px;
+    height: 184px;
+    margin-left: 100px;
+}
+
+.group-pic-photo{
+    position: absolute;
+    top: 2620px;
+    left: 990px;
 }
